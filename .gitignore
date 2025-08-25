@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Virtual envs
+.venv/
+.env
+
+# OS
+.DS_Store
+
+# If you use Jupyter
+.ipynb_checkpoints/
+
+# uv caches (but keep uv.lock!)
+.uv/
